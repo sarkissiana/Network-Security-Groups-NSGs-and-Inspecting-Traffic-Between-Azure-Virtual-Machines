@@ -25,7 +25,9 @@ In this tutorial, we observe network traffic to and from Azure Virtual Machines 
 - Create a new **Resource Group** in Azure.  
 - Deploy a **Virtual Network** with one subnet for the VMs.  
 
-📸 *Screenshot Placeholder: Resource Group and VNet Setup*  
+📸 
+<img width="1180" height="528" alt="Screenshot 2025-09-30 152915" src="https://github.com/user-attachments/assets/18a9c131-4c32-4020-b55e-d4cadaeebdc0" />
+<img width="1665" height="604" alt="Screenshot 2025-09-30 152955" src="https://github.com/user-attachments/assets/e62ef519-dff1-4028-a999-193970de3bfb" />
 
 ---
 
